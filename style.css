@@ -1,0 +1,28 @@
+body {
+    background-color: #9A7AAC;
+    font-family: 'Courier New', Courier, monospace;
+    color: #DFD7E4;
+}
+
+h1 {
+    text-align: center;
+    background-color: #5B2878;
+}
+
+a {
+    color: #DFD7E4;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #5B2878;
+}
+
+.main-link {
+    font-size: 24px;;
+}
+
+.recipe-list {
+    list-style: none;
+}
+
